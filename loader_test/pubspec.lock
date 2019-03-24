@@ -46,6 +46,15 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  font_awesome_flutter_pro:
+    dependency: "direct main"
+    description:
+      path: "."
+      ref: HEAD
+      resolved-ref: "18735c2275058ad60c3e1a3469ea99777b63e0a7"
+      url: "git@github.com:wfairclough/font_awesome_flutter_pro.git"
+    source: git
+    version: "8.4.0"
   matcher:
     dependency: transitive
     description:
